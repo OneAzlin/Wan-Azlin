@@ -1,0 +1,178 @@
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+
+body {
+	    background-image: url('https://wallpapers-clan.com/wp-content/uploads/2024/04/butterflies-pink-clouds-gif-desktop-wallpaper-cover.gif');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    margin: 0;
+    padding: 0;
+	font-family: 'Poppins', sans-serif;
+	line-height: 1.6;
+	color: #333;
+	background-color: #f5f5f5;
+}
+
+header {
+  background-color: #6c63ff;
+  color: #fff;
+  padding: 10px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+
+nav ul {
+  list-style-type: none;
+  display: flex;
+  justify-content: center;
+  margin-bottom: 0px;
+}
+
+nav li {
+  position: relative;
+  margin: 0 10px;
+}
+
+nav a {
+  color: #fff;
+  text-decoration: none;
+  padding: 10px 15px;
+  border-radius: 5px;
+  transition: background-color 0.3s ease;
+}
+
+nav a:hover {
+  background-color: rgba(255, 255, 255, 0.2);
+}
+
+nav li:hover .dropdown-menu {
+  display: block;
+}
+
+.dropdown-menu {
+  display: none;
+  position: absolute;
+  background-color: #6c63ff;
+  min-width: 160px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  z-index: 1;
+}
+
+.dropdown-menu a {
+  color: #fff;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+}
+
+.dropdown-menu a:hover {
+  background-color: rgba(255, 255, 255, 0.2);
+}
+
+
+main {
+  max-width: 1000px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+section {
+  margin-bottom: 40px;
+  background-color: #fff;
+  padding: 20px;
+  border-radius: 5px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+div.tadika1 {
+  border-radius: 50%;
+  filter:drop-shadow(1px 1px 10px white);
+  margin-right: 200px;
+  margin-left: 500px;
+}
+
+div.tadika2 {
+  border-radius: 50%;
+  filter:drop-shadow(1px 1px 10px white);
+  margin-right: 200px;
+  margin-left: 550px;
+}
+
+div.pasti1 {
+  border-radius: 50%;
+  filter:drop-shadow(1px 1px 10px white);
+  margin-right: 200px;
+  margin-left: 500px;
+}
+
+div.pasti2 {
+  border-radius: 50%;
+  filter:drop-shadow(1px 1px 10px white);
+  margin-right: 200px;
+  margin-left: 480px;
+}
+
+div.sk1 {
+  border-radius: 50%;
+  filter:drop-shadow(1px 1px 10px white);
+  margin-right: 200px;
+  margin-left: 500px;
+}
+
+div.sk2 {
+  border-radius: 50%;
+  filter:drop-shadow(1px 1px 10px white);
+  margin-right: 200px;
+  margin-left: 470px;
+}
+
+div.smk1 {
+  border-radius: 50%;
+  filter:drop-shadow(1px 1px 10px white);
+  margin-right: 200px;
+  margin-left: 500px;
+}
+
+div.smk2 {
+  border-radius: 50%;
+  filter:drop-shadow(1px 1px 10px white);
+  margin-right: 200px;
+  margin-left: 430px;
+}
+
+div.uitm1 {
+  border-radius: 50%;
+  filter:drop-shadow(1px 1px 10px white);
+  margin-right: 200px;
+  margin-left: 500px;
+}
+
+div.uitm2 {
+  border-radius: 50%;
+  filter:drop-shadow(1px 1px 10px white);
+  margin-right: 200px;
+  margin-left: 400px;
+  margin-top: -60px;
+}
+
+
+h1, h2, h3 {
+  color: #6c63ff;
+  margin-bottom: 10px;
+}
+
+footer {
+  background-color: #A66FB5;
+  color: #333;
+  text-align: center;
+  padding: 1px;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+}
