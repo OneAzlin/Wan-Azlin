@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>UTAMA</title>
+    </head>
+
+    <body>
+<h1>THIS IS MY WEBSITE</h1>
+    <img src="images/alumni.jpg">
+    <p>
+
+        <table border="1" width="100%" cellpadding="50" cellspacing="10" bgcolor="grey">
+            <tr>
+                <th colspan="3" height="100">Header 1</th>
+                </tr>
+        
+            <tr>
+                <td>1.1</td>
+                <td>1.2</td>
+                <td>1.3</td>
+            </tr>
+        
+            <tr>
+                <td>1.1</td>
+                <td>1.2</td>
+                <td>1.3</td>
+            </tr>
+        </table>
+    </body>
+<footer><p>All rights reserved /p></footer>
+</html>
